@@ -75,7 +75,7 @@ To Run the agent :
 ## Game Output Samples:
 
 ### Baby Snake:
-![BabySnakeFast](../../../../Desktop/snake-ai-pytorch-main/gifs/BabySnakeFast.gif)
+![BabySnakeFast](BabySnakeFast.gif)
 
 ### Slightly Learning Snake :
 
