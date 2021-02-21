@@ -1,5 +1,5 @@
 # Snake Ai
-![Alt](https://hackster.imgix.net/uploads/attachments/431013/snake_dvlfwCony2.png?auto=compress%2Cformat&w=900&h=675&fit=min "Snake")
+<img src="https://images-na.ssl-images-amazon.com/images/I/518xyJeQD6L.jpg" alt="snake" width="1000" height="500">
 
 ## What is snake game ?
 Sanke is a popular game from the old days where the player moves the snake inside a rectangular board where the snake grows in length when eating food which randomly spawn . The game concept relies on 2 obstacles the snake itself and the walls . Game ends if hitting the snake body , hitting a board wall , or the snake fills the whole board and there isn't a new place for food then the snake **WINS** ! 🎉
