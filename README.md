@@ -25,7 +25,7 @@ Our goal is develop an ai agent to play snake game and acheive the highest score
 	 + Reinforcement Learning
 	   + <mark> Deep Q Learning</mark>
 
-In the following project we will use deep Q learning to solve snake game .
+In the following project we will use deep Q learning to solve snake game
 
 ![Image for post](https://miro.medium.com/max/846/1*uQLbjD0rt4LLJgHh_33uSA.gif "example")
 <figcaption>On the left, the AI does not know anything about the game. On the right, the AI is trained and learnt how to play . THIS IS NOT AN EXAMPLE FROM OUR CODE THIS GENERAL EXAMPLE FOR DEEP Q LEARNING ON SNAKE GAME </figcaption> 
