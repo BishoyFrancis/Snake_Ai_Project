@@ -75,14 +75,14 @@ To Run the agent :
 ## Game Output Samples:
 
 ### Baby Snake:
-![BabySnakeFast](BabySnakeFast.gif)
+![BabySnakeFast](https://github.com/BishoyFrancis/Snake_Ai_Project/blob/master/gifs/1%20-BabySnakeFast.gif)
 
 ### Slightly Learning Snake :
 
-![Alt](C:/Users/Bishoy/Desktop/snake-ai-pytorch-main/gifs/2%20-Slightly%20Learn%20Snake%20Fast.gif)
+![Alt](https://github.com/BishoyFrancis/Snake_Ai_Project/blob/master/gifs/2%20-Slightly%20Learn%20Snake%20Fast.gif)
 
 ### Advanced Snake:
 
-![Advanced Snake GIF](C:/Users/Bishoy/Desktop/snake-ai-pytorch-main/gifs/3%20-Advanced%20Snake.gif)
+![Advanced Snake GIF](https://github.com/BishoyFrancis/Snake_Ai_Project/blob/master/gifs/3%20-Advanced%20Snake.gif)
 
 
